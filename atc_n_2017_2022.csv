@@ -1,0 +1,255 @@
+﻿"ATC-N: Nervous system (Group N; DDD/1000 inhabitants/day)"
+
+"ATC code and group, active substance";"2017";"2018";"2019";"2020";"2021"
+"N: NERVOUS SYSTEM";123.24;127.78;134.19;141.89;148.29
+"N02: ANALGESICS";20.66;22.08;23.52;26.72;27.87
+"N02A: OPIOIDS";6.18;6.89;7.74;8.80;9.35
+"N02AA: Natural opium alkaloids";0.63;0.68;0.77;0.87;0.95
+"N02AA01: Morphine";0.17;0.17;0.17;0.17;0.17
+"N02AA05: Oxycodone";0.36;0.40;0.49;0.58;0.65
+"N02AA08: Dihydrocodeine";0.10;0.10;0.10;0.12;0.11
+"N02AA55: Oxycodone+Naloxone";0.00;0.00;0.00;0.01;0.01
+"N02AB: Phenylpiperidine derivatives";0.14;0.13;0.15;0.14;0.13
+"N02AB02: Pethidine";0.02;0.02;0.02;0.01;0.01
+"N02AB03: Fentanyl";0.12;0.11;0.14;0.13;0.12
+"N02AE: Oripavine derivatives";0.00;0.00;0.01;0.02;0.02
+"N02AE01: Buprenorphine";0.00;0.00;0.01;0.02;0.02
+"N02AJ: Opioids in combination with non-opioid analgesics";3.26;4.09;4.94;5.88;6.50
+"N02AJ06: Codeine+Paracetamol";3.03;3.50;4.04;4.71;5.16
+"N02AJ13: Tramadol+Paracetamol";0.03;0.03;0.03;0.03;0.03
+"N02AJ14: Tramadol+Dexketoprofen";0.20;0.56;0.87;1.14;1.31
+"N02AX: Other opioids";2.16;2.00;1.87;1.89;1.77
+"N02AX02: Tramadol";2.16;2.00;1.87;1.89;1.77
+"N02AX06: Tapentadol";0.00;-;-;-;-
+"N02B: OTHER ANALGESICS AND ANTIPYRETICS";13.73;14.34;14.85;16.84;17.38
+"N02BA: Salicylic acid and derivatives";1.05;0.95;0.90;0.94;0.93
+"N02BA01: Acetylsalicylic acid";0.90;0.81;0.77;0.81;0.79
+"N02BA80: Acetylsalicylic acid +Ascorbic acid";0.15;0.14;0.14;0.13;0.14
+"N02BB: Pyrazolones";0.00;0.00;0.00;0.00;0.00
+"N02BB02: Metamizole sodium";0.00;0.00;0.00;0.00;0.00
+"N02BE: Anilides";12.63;13.39;13.94;15.91;16.44
+"N02BE01: Paracetamol";8.45;9.33;9.77;11.92;12.65
+"N02BE52: Paracetamol+Pseudoephedrine+Diphenhydramine";-;-;0.04;0.05;0.02
+"N02BE75: Paracetamol+Guaifenesin+Phenylephrine";0.17;0.23;0.18;0.14;0.11
+"N02BE81: Paracetamol+Chlorphenamine+Pseudoephedrine+Dextromethorphan";0.33;0.35;0.30;0.28;0.29
+"N02BE83: Paracetamol+Caffeine";0.05;0.10;0.13;0.17;0.16
+"N02BE84: Paracetamol+Phenylephrine+Ascorbic acid";0.83;0.94;0.89;0.64;0.56
+"N02BE85: Paracetamol+Pheniramine+Ascorbic acid";0.08;0.08;0.07;0.06;0.05
+"N02BE86: Paracetamol+Phenylephrine+Terpin hydrate+Ascorbic acid+Caffeine";0.29;0.15;0.28;0.22;0.18
+"N02BE87: Paracetamol+Pseudoephedrine";0.08;0.06;0.05;0.04;0.04
+"N02BE91: Paracetamol+Ascorbic acid";-;0.00;0.00;0.01;0.01
+"N02BE92: Paracetamol+Codeine";0.77;0.40;0.63;0.72;0.86
+"N02BE94: Paracetamol+Codeine+Caffeine";1.17;1.28;1.21;1.29;1.23
+"N02BE95: Paracetamol+Phenylephrine";0.04;0.05;0.05;0.05;0.02
+"N02BE97: Paracetamol+Pseudoephedrine+Dextromethorphan";0.38;0.41;0.33;0.32;0.26
+"N02BE99: Paracetamol+Dextromethorphan";0.00;-;-;-;-
+"N02BG: Other analgesics and antipyretics";0.04;-;-;-;-
+"N02BG07: Flupirtine";0.04;-;-;-;-
+"N02C: ANTIMIGRAINE PREPARATIONS";0.75;0.86;0.94;1.07;1.14
+"N02CC: Selective serotonin (5HT1) agonists";0.75;0.86;0.93;1.05;1.11
+"N02CC01: Sumatriptan";0.61;0.72;0.79;0.90;0.96
+"N02CC02: Naratriptan";0.00;0.00;-;-;-
+"N02CC03: Zolmitriptan";0.07;0.05;0.04;0.05;0.06
+"N02CC04: Rizatriptan";0.01;0.02;0.01;0.01;0.01
+"N02CC05: Almotriptan";-;0.00;-;-;-
+"N02CC07: Frovatriptan";0.06;0.07;0.08;0.08;0.08
+"N02CD: Calcitonin gene-related peptide (CGRP) antagonists";-;0.00;0.01;0.02;0.03
+"N02CD01: Erenumab";-;0.00;0.01;0.02;0.02
+"N02CD03: fremanezumab";-;-;-;0.00;0.01
+"N03: ANTIEPILEPTICS";9.12;10.03;10.92;11.88;12.32
+"N03A: ANTIEPILEPTICS";9.12;10.03;10.92;11.88;12.32
+"N03AA: Barbiturates and derivatives";0.43;0.44;0.46;0.45;0.34
+"N03AA02: Phenobarbital";0.38;0.39;0.41;0.41;0.30
+"N03AA03: Primidone";0.05;0.05;0.05;0.05;0.04
+"N03AB: Hydantoin derivatives";0.04;0.05;0.04;0.04;0.04
+"N03AB02: Phenytoin";0.04;0.05;0.04;0.04;0.04
+"N03AD: Succinimide derivatives";0.01;0.02;0.01;0.01;0.02
+"N03AD01: Ethosuximide";0.01;0.02;0.01;0.01;0.02
+"N03AE: Benzodiazepine derivatives";0.61;0.58;0.57;0.58;0.55
+"N03AE01: Clonazepam";0.61;0.58;0.57;0.58;0.55
+"N03AF: Carboxamide derivatives";2.94;2.90;2.86;2.76;2.64
+"N03AF01: Carbamazepine";2.12;2.09;2.05;1.94;1.81
+"N03AF02: Oxcarbazepine";0.82;0.81;0.81;0.82;0.83
+"N03AF03: Rufinamide";-;-;0.00;-;0.00
+"N03AG: Fatty acid derivatives";1.51;1.57;1.61;1.70;1.63
+"N03AG01: Valproic acid";1.50;1.56;1.59;1.69;1.61
+"N03AG04: Vigabatrin";0.01;0.01;0.01;0.02;0.02
+"N03AX: Other antiepileptics";3.57;4.48;5.36;6.33;7.10
+"N03AX03: Sultiame";0.01;0.02;0.02;0.03;0.02
+"N03AX09: Lamotrigine";0.54;0.62;0.68;0.75;0.84
+"N03AX11: Topiramate";0.23;0.23;0.24;0.27;0.28
+"N03AX12: Gabapentin";1.10;1.33;1.50;1.87;2.11
+"N03AX14: Levetiracetam";0.45;0.52;0.61;0.80;0.85
+"N03AX15: Zonisamide";-;-;-;0.00;0.00
+"N03AX16: Pregabalin";1.24;1.76;2.30;2.61;2.99
+"N03AX17: Stiripentol";0.00;0.00;0.00;0.00;0.00
+"N03AX18: Lacosamide";0.00;0.00;0.00;0.00;0.00
+"N03AX21: Retigabine";0.00;-;-;-;-
+"N03AX22: perampanel";0.00;0.00;0.00;0.00;0.00
+"N03AX23: Brivaracetam";-;-;-;0.00;0.00
+"N03AX24: Cannabidiol";-;-;-;0.00;0.00
+"N04: ANTI-PARKINSON DRUGS";3.83;3.78;3.77;3.76;3.63
+"N04A: ANTICHOLINERGIC AGENTS";0.62;0.63;0.61;0.58;0.55
+"N04AA: Tertiary amines";0.62;0.63;0.61;0.58;0.55
+"N04AA01: Trihexyphenidyl";0.62;0.63;0.61;0.58;0.55
+"N04B: DOPAMINERGIC AGENTS";3.21;3.15;3.17;3.18;3.08
+"N04BA: Dopa and dopa derivatives";1.41;1.43;1.42;1.48;1.42
+"N04BA03: Levodopa +Carbidopa+Entacapone";0.29;0.29;0.33;0.33;0.30
+"N04BA80: Levodopa +Benserazide";0.87;0.88;1.07;1.11;1.07
+"N04BA81: Levodopa +Carbidopa";0.25;0.25;0.02;0.03;0.05
+"N04BB: Adamantane derivatives";0.34;0.31;0.30;0.31;0.29
+"N04BB01: Amantadine";0.34;0.31;0.30;0.31;0.29
+"N04BC: Dopamine agonists";0.71;0.74;0.77;0.77;0.78
+"N04BC04: Ropinirole";0.33;0.35;0.36;0.37;0.38
+"N04BC05: Pramipexole";0.37;0.37;0.39;0.37;0.38
+"N04BC07: Apomorphine";0.02;0.02;0.03;0.03;0.02
+"N04BD: Monoamine oxidase type B inhibitors";0.75;0.67;0.67;0.62;0.59
+"N04BD02: Rasagiline";0.75;0.67;0.67;0.62;0.59
+"N05: PSYCHOLEPTICS";43.62;42.93;43.63;45.26;45.77
+"N05A: ANTIPSYCHOTICS";8.99;9.14;9.58;10.05;10.18
+"N05AA: Phenothiazines with aliphatic side-chain";0.16;0.16;0.16;0.15;0.15
+"N05AA01: Chlorpromazine";0.08;0.08;0.09;0.07;0.07
+"N05AA02: Levomepromazine";0.08;0.08;0.08;0.07;0.08
+"N05AB: Phenothiazines with piperazine structure";0.06;0.08;0.07;0.09;0.08
+"N05AB02: Fluphenazine";0.01;0.01;0.01;0.02;0.01
+"N05AB03: Perphenazine";0.06;0.06;0.06;0.07;0.07
+"N05AB04: Prochlorperazine";-;-;0.00;0.00;-
+"N05AC: Phenothiazines with piperidine structure";0.00;0.00;0.00;0.00;0.00
+"N05AC01: Periciazine";0.00;0.00;0.00;0.00;0.00
+"N05AC02: Thioridazine";-;-;0.00;-;-
+"N05AD: Butyrophenone derivatives";1.07;1.04;1.03;1.05;0.89
+"N05AD01: Haloperidol";0.76;0.72;0.75;0.77;0.65
+"N05AD03: Melperone";0.29;0.29;0.27;0.26;0.23
+"N05AD08: Droperidol";0.02;0.02;0.02;0.02;0.01
+"N05AE: Indole derivatives";0.13;0.12;0.10;0.08;0.08
+"N05AE03: Sertindole";0.10;0.09;0.10;0.08;0.08
+"N05AE04: Ziprasidone";0.04;0.03;0.00;0.00;0.00
+"N05AE05: Lurasidone";-;-;0.00;-;0.00
+"N05AF: Thioxanthene derivatives";0.93;0.87;0.87;0.85;0.83
+"N05AF01: Flupentixol";0.20;0.19;0.18;0.19;0.18
+"N05AF03: Chlorprothixene";0.22;0.21;0.20;0.20;0.19
+"N05AF05: Zuclopenthixol";0.51;0.47;0.49;0.46;0.47
+"N05AG: Diphenylbutylpiperidine derivatives";0.00;0.00;0.00;-;-
+"N05AG02: Pimozide";0.00;0.00;0.00;-;-
+"N05AH: Diazepines, oxazepines, thiazepines and oxepines";4.99;5.12;5.44;5.78;5.97
+"N05AH02: Clozapine";0.62;0.64;0.63;0.68;0.67
+"N05AH03: Olanzapine";1.95;1.97;2.16;2.36;2.44
+"N05AH04: Quetiapine";2.42;2.51;2.65;2.73;2.85
+"N05AH05: Asenapine";-;-;0.00;-;-
+"N05AL: Benzamides";0.14;0.14;0.15;0.13;0.12
+"N05AL01: Sulpiride";0.06;0.06;0.06;0.05;0.05
+"N05AL05: Amisulpride";0.08;0.08;0.09;0.08;0.08
+"N05AN: Lithium";0.21;0.23;0.26;0.29;0.34
+"N05AN01: Lithium";0.21;0.23;0.26;0.29;0.34
+"N05AX: Other antipsychotics";1.29;1.39;1.50;1.64;1.72
+"N05AX08: Risperidone";0.65;0.66;0.69;0.70;0.70
+"N05AX12: Aripiprazole";0.58;0.68;0.74;0.85;0.93
+"N05AX13: Paliperidone";0.06;0.06;0.07;0.08;0.08
+"N05AX15: Cariprazine";-;0.00;0.00;0.00;0.00
+"N05B: ANXIOLYTICS";13.60;12.90;13.03;13.13;12.95
+"N05BA: Benzodiazepine derivatives";13.60;12.90;13.03;13.13;12.95
+"N05BA01: Diazepam";6.08;5.80;5.69;5.76;5.71
+"N05BA02: Chlordiazepoxide";0.00;0.00;0.00;-;-
+"N05BA04: Oxazepam";0.05;0.01;0.00;0.00;-
+"N05BA06: Lorazepam";0.39;0.50;0.62;0.73;0.87
+"N05BA08: Bromazepam";1.32;1.21;1.18;1.21;1.11
+"N05BA09: Clobazam";0.03;0.03;0.03;0.03;0.04
+"N05BA12: Alprazolam";5.72;5.33;5.49;5.38;5.21
+"N05BA80: Phenazepam";0.02;0.02;0.02;0.02;0.02
+"N05BB: Diphenylmethane derivatives";0.00;0.00;0.00;0.00;0.00
+"N05BB01: Hydroxyzine";0.00;0.00;0.00;0.00;0.00
+"N05BE: Azaspirodecanedione derivatives";0.00;-;0.00;0.00;0.00
+"N05BE01: Buspirone";0.00;-;0.00;0.00;0.00
+"N05C: HYPNOTICS AND SEDATIVES";21.03;20.89;21.02;22.09;22.64
+"N05CD: Benzodiazepine derivatives";0.67;0.27;0.30;0.17;0.21
+"N05CD02: Nitrazepam";0.40;0.05;0.11;0.09;0.09
+"N05CD05: Triazolam";0.03;0.00;0.00;0.00;0.00
+"N05CD08: Midazolam";0.23;0.22;0.19;0.08;0.11
+"N05CF: Benzodiazepine related drugs";19.99;20.09;20.38;21.33;21.30
+"N05CF01: Zopiclone";16.08;16.07;16.22;16.79;16.64
+"N05CF02: Zolpidem";3.90;4.02;4.16;4.54;4.58
+"N05CF04: Eszopiclone";-;-;-;-;0.08
+"N05CH: Melatonin receptor agonists";0.06;0.02;-;0.28;0.68
+"N05CH01: Melatonin";0.06;0.02;-;0.28;0.68
+"N05CM: Other hypnotics and sedatives";0.32;0.50;0.34;0.31;0.45
+"N05CM09: Valerianae radix";0.31;0.50;0.32;0.29;0.41
+"N05CM18: Dexmedetomidine";0.01;0.01;0.01;0.02;0.04
+"N06: PSYCHOANALEPTICS";34.02;36.89;39.89;42.09;46.54
+"N06A: ANTIDEPRESSANTS";28.84;31.85;34.78;36.99;40.73
+"N06AA: Non-selective monoamine reuptake inhibitors";1.96;1.86;1.94;1.93;1.94
+"N06AA02: Imipramine";0.00;0.00;-;0.00;0.00
+"N06AA04: Clomipramine";0.07;0.09;0.10;0.10;0.09
+"N06AA09: Amitriptyline";1.49;1.41;1.49;1.50;1.55
+"N06AA10: Nortriptyline";0.40;0.36;0.36;0.33;0.30
+"N06AB: Selective serotonin reuptake inhibitors";17.47;18.91;20.58;21.72;24.06
+"N06AB03: Fluoxetine";3.09;3.31;3.39;3.28;4.03
+"N06AB04: Citalopram";1.43;1.38;1.43;1.42;1.40
+"N06AB05: Paroxetine";2.35;2.44;2.38;2.32;2.34
+"N06AB06: Sertraline";3.95;4.55;5.40;6.02;7.16
+"N06AB08: Fluvoxamine";0.01;0.01;0.01;0.01;0.02
+"N06AB10: Escitalopram";6.64;7.23;7.98;8.67;9.11
+"N06AF: Monoamine oxidase inhibitors, non-selective";0.00;0.00;0.01;0.01;0.01
+"N06AF04: Tranylcypromine";0.00;0.00;0.01;0.01;0.01
+"N06AG: Monoamine oxidase type A inhibitors";-;0.00;0.00;0.00;0.00
+"N06AG02: Moclobemide";-;0.00;0.00;0.00;0.00
+"N06AX: Other antidepressants";9.41;11.08;12.25;13.34;14.72
+"N06AX03: Mianserin";0.00;0.00;0.00;0.00;0.00
+"N06AX05: Trazodone";-;-;0.04;0.10;0.14
+"N06AX11: Mirtazapine";2.02;2.11;2.29;2.65;2.69
+"N06AX12: Bupropione";0.50;0.66;0.74;0.88;1.10
+"N06AX14: Tianeptine";1.13;1.31;1.39;1.25;1.39
+"N06AX16: Venlafaxine";2.66;3.08;3.47;3.92;4.37
+"N06AX17: Milnacipran";-;0.00;-;-;0.00
+"N06AX18: Reboxetine";0.00;0.00;0.00;0.00;0.00
+"N06AX21: Duloxetine";1.79;2.15;2.32;2.56;2.82
+"N06AX22: Agomelatine";0.95;1.31;1.43;1.25;1.23
+"N06AX26: Vortioxetine";0.35;0.46;0.57;0.73;0.97
+"N06B: PSYCHOSTIMULANTS, AGENTS USED FOR ADHD AND NOOTROPICS";1.06;1.19;1.33;1.53;2.16
+"N06BA: Centrally acting sympathomimetics";0.78;0.92;1.07;1.26;1.78
+"N06BA04: Methylphenidate";0.71;0.85;0.99;1.18;1.67
+"N06BA07: Modafinil";0.00;0.01;0.01;0.01;0.01
+"N06BA09: Atomoxetine";0.07;0.06;0.07;0.07;0.10
+"N06BA11: Dexmethylphenidate";0.00;0.00;-;-;-
+"N06BC: Xanthine derivatives";0.00;0.00;-;-;-
+"N06BC80: Coffeini-sodium benzoate";0.00;0.00;-;-;-
+"N06BX: Other psychostimulants and nootropics";0.28;0.27;0.26;0.26;0.39
+"N06BX03: Piracetam";0.26;0.26;0.24;0.25;0.37
+"N06BX13: Idebenone";0.00;0.00;0.00;0.00;-
+"N06BX18: Vinpocetine";0.02;0.01;0.01;0.01;0.01
+"N06D: ANTI-DEMENTIA DRUGS";4.12;3.85;3.77;3.57;3.65
+"N06DA: Anticholinesterases";0.73;0.82;0.99;1.10;1.19
+"N06DA02: Donepezil";0.73;0.82;0.99;1.10;1.19
+"N06DA04: Galantamine";0.00;0.00;-;-;-
+"N06DX: Other anti-dementia drugs";3.39;3.03;2.78;2.47;2.46
+"N06DX01: Memantine";0.25;0.30;0.45;0.47;0.61
+"N06DX02: Ginkgo folium";3.14;2.73;2.34;2.00;1.84
+"N07: OTHER NERVOUS SYSTEM DRUGS";11.99;12.07;12.46;12.17;12.16
+"N07A: PARASYMPATHOMIMETICS";0.35;0.37;0.38;0.37;0.36
+"N07AA: Anticholinesterases";0.35;0.37;0.38;0.37;0.36
+"N07AA01: neostigmine";0.03;0.03;0.03;0.03;0.03
+"N07AA02: Pyridostigmine bromide";0.30;0.31;0.32;0.31;0.31
+"N07AA03: Distigmine bromide";-;0.00;0.00;0.00;-
+"N07AA80: Neostigmine+Glycopyrronium";0.02;0.03;0.03;0.03;0.02
+"N07B: DRUGS USED IN ADDICTIVE DISORDERS";3.31;3.33;3.54;3.39;3.33
+"N07BA: Drugs used in nicotine dependence";1.50;1.64;1.92;1.86;1.72
+"N07BA01: Nicotine";1.46;1.60;1.88;1.82;1.70
+"N07BA03: Varenicline";0.04;0.04;0.04;0.04;0.02
+"N07BB: Drugs used in alcohol dependence";0.33;0.36;0.41;0.37;0.42
+"N07BB01: Disulfiram";0.30;0.32;0.34;0.29;0.35
+"N07BB03: Acamprosate";-;-;0.00;0.00;0.00
+"N07BB04: Naltrexone";0.02;0.03;0.05;0.06;0.07
+"N07BB05: nalmefene";0.01;0.01;0.01;0.01;0.01
+"N07BC: Drugs used in opioid dependence";1.48;1.33;1.22;1.16;1.19
+"N07BC02: Methadone";1.46;1.29;1.17;1.11;1.14
+"N07BC51: Buprenorphine+Naloxone";0.03;0.04;0.05;0.05;0.05
+"N07C: ANTIVERTIGO PREPARATIONS";8.31;8.34;8.50;8.38;8.44
+"N07CA: Antivertigo preparations";8.31;8.34;8.50;8.38;8.44
+"N07CA01: Betahistine";6.94;7.06;7.27;7.14;7.23
+"N07CA02: Cinnarizine";1.36;1.24;1.18;1.17;1.14
+"N07CA03: Flunarizine";0.00;0.00;0.00;0.00;0.00
+"N07CA80: Cinnarizine+Dimenhydrinate";0.01;0.04;0.05;0.06;0.07
+"N07X: OTHER NERVOUS SYSTEM DRUGS";0.02;0.03;0.04;0.03;0.03
+"N07XX: Other nervous system drugs";0.02;0.03;0.04;0.03;0.03
+"N07XX02: Riluzole";0.02;0.03;0.03;0.03;0.03
+"N07XX06: Tetrabenazine";0.00;0.01;0.01;0.00;0.00
+"N07XX07: Fampridine";0.00;0.00;0.00;0.00;0.00
